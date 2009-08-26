@@ -1,3 +1,11 @@
+/**
+ * Image Viewer Bookmark
+ * 
+ * @author Nathan Loyer - 4namlet@gmail.com
+ * @date 8/26/09
+ * @version 0.1
+ * 
+ */
 javascript: (function () {
 	function tn( tagname ){
 		return document.getElementsByTagName(tagname);

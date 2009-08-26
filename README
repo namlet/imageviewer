@@ -1,0 +1,5 @@
+Date: 08/26/09
+Author: Nathan Loyer
+Email: 4namlet@gmail.com
+
+Add the content of imageviewer.min.js to the location/address section of a new bookmark. To activate on any page, click the bookmark link.  The script will create hidden images for any anchor/link (a) elements that link to an image (jpg, jpeg, gif, png) and shows the image when you hover over the link.
